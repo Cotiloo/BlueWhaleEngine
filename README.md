@@ -89,4 +89,4 @@ GNU General Public License v3.0 - See LICENSE file for details
 
 ## Author
 
-BlueWhale Engine by Cotiloo
+BlueWhale Engine by https://lichess.org/@/BlueWhaleOrg
