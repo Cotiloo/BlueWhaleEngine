@@ -1,4 +1,4 @@
-# BlueWhale Engine
+# BlueWhale Engine (Open source) 
 
 A high-performance chess engine written in C++ with UCI support, GUI integration, and web interface. Designed to compete with Stockfish and other top engines.
 
